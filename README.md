@@ -1,5 +1,5 @@
 # django_react_babel_webpack
-A template for future reference. '%n'
+A template for future reference. 
 
 Initial structure:
 ├── db.sqlite3
