@@ -1,5 +1,5 @@
 # django_react_babel_webpack
-A template for future reference.
+A template for future reference. '%n'
 
 Initial structure:
 ├── db.sqlite3
@@ -21,6 +21,7 @@ Initial structure:
     ├── urls.py
     ├── views.py
     └── wsgi.py
+
 
 Terminal Command:
 npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader node-sass webpack webpack-cli 
