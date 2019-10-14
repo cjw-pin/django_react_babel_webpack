@@ -23,7 +23,7 @@ Initial structure:
     └── wsgi.py
 
 
-Terminal Command:
+Terminal Command (IN THE STATIC FOLDER):
 npm install -D @babel/core @babel/preset-env @babel/preset-react babel-loader css-loader node-sass webpack webpack-cli 
 npm install react react-dom
 npm run webpack
@@ -54,5 +54,5 @@ After:
     ├── views.py
     └── wsgi.py
     
-(On another terminal) Command 
+(On another terminal) Command: 
 python manage.py runserver
